@@ -1,17 +1,11 @@
 Konten Kurang :
-- Text Slider (Tolong isiin qom, katanya ada didalem proposal)
-- Tim (Nunggu Mas Andri)
-- Keahlian (Nunggu Mas Andri)
-
+- Tim (Kurang Foto)
 
 Desain Kurang :
 - 4 icon services (Target Minggu ini 16 Mei)
-- Foto tim (Target Minggu ini 16 Mei kalo Mas Andri Udah Ngasi)
-
 
 Sistem :
 - Menu News Drop Down (Target Minggu ini 16 Mei Ngerjain di Kantor aja)
-- Kategori foto (Target Minggu ini 16 Mei ngerjain di kantor kalo bisa ntar bagi dua sama ngerjain halaman news nya)
 - System email otomatis (Nunggu Hosting)
 
 
